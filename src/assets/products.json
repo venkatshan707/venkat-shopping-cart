@@ -1,0 +1,64 @@
+[
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "price": 35,
+    "name": "Tamatto",
+    "description": "Fresh Tamattos .",
+    "ingredients": [
+      {
+        "price": "1Kg",
+        "vitamins": "A"
+      }
+
+    ]
+  },
+  {
+    "id": "bdcbe438-ac85-4acf-8949-5627fd5b57df",
+    "price": 40,
+    "name": "Bananas",
+    "description": " Fresh Bananas",
+    "ingredients": [
+      {
+        "price": "12 Nos",
+        "vitamins": "A"
+      }
+    ]
+  },
+  {
+    "id": "58552daa-30f6-46fa-a808-f1a1d7667561",
+    "price": 25,
+    "name": "Mukia Scabrella",
+    "description": "Also called as Musumusukku Podi",
+    "ingredients": [
+      {
+        "price": "1 Pack",
+        "vitamins": "A"
+      }
+
+    ]
+  },
+  {
+    "id": "d4666802-fd84-476f-9eea-c8dd29cfb633",
+    "price": 60,
+    "name": "Orange",
+    "description": "Orange boost you health!",
+    "ingredients": [
+      {
+        "price": "1 Kg",
+        "vitamins": "A"
+      }
+    ]
+  },
+  {
+    "id": "7ef3b9dd-5a95-4415-af37-6871d6ff0262",
+    "price": 20,
+    "name": "Coconut",
+    "description": "Coconut fills your Vitamin E",
+    "ingredients": [
+      {
+        "price": "1 Coconut",
+        "vitamins": "A"
+      }
+    ]
+  }
+]
