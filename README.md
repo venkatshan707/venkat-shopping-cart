@@ -1,7 +1,7 @@
 # Angular - Shopping Cart Example
 
 
-In this project I have done simple shopping cart application with following functionalities
+In this Angular 4 project I have done simple shopping cart application with following functionalities
 
   1.User can able to add products to Cart
 
@@ -9,7 +9,7 @@ In this project I have done simple shopping cart application with following func
 
    3.User can be able to edit items in cart (update quantity, delete items in cart)
  
-* To RUn this Project in your Machine you should have Angular 6 or Greater Version and Node installed.
+* To Run this Project in your Machine you should have Angular 6 or Greater Version and Node installed.
 
 # Step 1 : Clone Project
 To clone This project in your local machine, use following Command in Command prompt.
