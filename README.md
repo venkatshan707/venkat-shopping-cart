@@ -1,5 +1,5 @@
 Angular - Shopping Cart Example
- In this project I have done simple shopping cart application with following functionalities
+In this project I have done simple shopping cart application with following functionalities
   1.User can able to add products to Cart
 
    2.User can able to purchase multiple quantities of the same product
@@ -8,6 +8,7 @@ Angular - Shopping Cart Example
 
 Step 1: Clone Project
 To clone This project with your local machine use following Command in Command prompt.
+
 git clone https://github.com/venkatshan707/venkat-shopping-cart.git
 
 Step 2:Setup
